@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="609d4f29-dc4a-4970-a049-0f019000c3db" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/signer.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1605">
+              <caret line="115" selection-start-line="115" selection-end-line="115" />
+              <folding>
+                <element signature="n#!!block;n#MultiHash#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="e#14#93#0" expanded="true" />
+                <element signature="e#268#454#0" />
+                <element signature="e#484#672#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extra_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#14#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>OverheatLock happend</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/singer_backup.go" />
+        <option value="$PROJECT_DIR$/main_test.go" />
+        <option value="$PROJECT_DIR$/signer_backup.go" />
+        <option value="$PROJECT_DIR$/common.go" />
+        <option value="$PROJECT_DIR$/extra_test.go" />
+        <option value="$PROJECT_DIR$/signer.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw2_signer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw2_signer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestSigner in Coursera/Tasks/hw2_signer">
+    <configuration name="TestByIlia in Coursera/Tasks/hw2_signer" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw2_signer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Coursera/Tasks/hw2_signer" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestByIlia$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestPipeline in Coursera/Tasks/hw2_signer" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw2_signer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Coursera/Tasks/hw2_signer" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestPipeline$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSigner in Coursera/Tasks/hw2_signer" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw2_signer" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Coursera/Tasks/hw2_signer" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSigner$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.TestByIlia in Coursera/Tasks/hw2_signer" />
+      <item itemvalue="Go Test.TestPipeline in Coursera/Tasks/hw2_signer" />
+      <item itemvalue="Go Test.TestSigner in Coursera/Tasks/hw2_signer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestSigner in Coursera/Tasks/hw2_signer" />
+        <item itemvalue="Go Test.TestPipeline in Coursera/Tasks/hw2_signer" />
+        <item itemvalue="Go Test.TestByIlia in Coursera/Tasks/hw2_signer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.10 at 23h 57m 23s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.10 at 23h 59m 11s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.11 at 00h 05m 14s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.11 at 00h 06m 12s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.11 at 00h 06m 26s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.11 at 00h 21m 25s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.11 at 00h 25m 15s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.11 at 00h 26m 12s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.11 at 00h 26m 27s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSigner_in_Coursera_Tasks_hw2_signer - 2018.07.11 at 08h 56m 41s.xml">
+      <configuration name="TestSigner in Coursera/Tasks/hw2_signer" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17460318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41563785" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47272727" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.44170097" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32921812" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39917696" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/extra_test.go</url>
+          <line>29</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/signer.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/signer.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main_test.go</url>
+          <line>74</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main_test.go</url>
+          <line>65</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/signer.go</url>
+          <line>94</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/signer.go</url>
+          <line>97</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/signer.go</url>
+          <line>120</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/signer.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/signer.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/testing/testing.go" />
+    <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/runtime/asm_amd64.s" />
+    <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/runtime/panic.go" />
+    <entry file="file://$PROJECT_DIR$/signer_backup.go" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../PipeLine/signer.go" />
+    <entry file="file://$PROJECT_DIR$/main_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#14#93#0" expanded="true" />
+            <element signature="e#268#454#0" />
+            <element signature="e#484#672#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#14#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+          <folding>
+            <element signature="n#!!block;n#MultiHash#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

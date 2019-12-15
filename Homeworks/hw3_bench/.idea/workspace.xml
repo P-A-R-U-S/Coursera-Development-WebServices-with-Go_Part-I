@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f5395b1-8645-41bd-a06a-944428e203ff" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fast.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="202" column="18" selection-start-line="202" selection-start-column="18" selection-end-line="202" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!block;n#easyjson3486653aDecodeCourseraHomeworksHw3Bench#0" />
+                <element signature="n#!!block;n#UnmarshalJSON#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="54" />
+              <folding>
+                <element signature="e#874#931#0" />
+                <element signature="e#1552#2087#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#14#57#0" expanded="true" />
+                <element signature="n#!!block;n#init#0" />
+                <element signature="n#!!block;n#TestSearch#0" />
+                <element signature="n#!!block;n#BenchmarkSlow#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>*bitState</find>
+      <find>r</find>
+      <find>foundUsers</find>
+      <find>uniqueBrowsers</find>
+      <find>&quot;Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0)&quot;</find>
+      <find>SteveLong@Oloo.gov</find>
+      <find>Topiclounge</find>
+      <find>Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0)</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fast_easyjson.go" />
+        <option value="$PROJECT_DIR$/main_test.go" />
+        <option value="$PROJECT_DIR$/fast.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="240" />
+    <option name="y" value="96" />
+    <option name="width" value="1440" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw3_bench" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw3_bench" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw3_bench" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw3_bench" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestSearch in Coursera/Homeworks/hw3_bench">
+    <configuration name="BenchmarkFast in Coursera/Homeworks/hw3_bench" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw3_bench" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="Coursera/Homeworks/hw3_bench" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkFast$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkSlow in Coursera/Homeworks/hw3_bench" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw3_bench" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="Coursera/Homeworks/hw3_bench" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkSlow$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw3_bench" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Coursera/Homeworks/hw3_bench" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSearch$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.TestSearch in Coursera/Homeworks/hw3_bench" />
+      <item itemvalue="Go Test.BenchmarkSlow in Coursera/Homeworks/hw3_bench" />
+      <item itemvalue="Go Test.BenchmarkFast in Coursera/Homeworks/hw3_bench" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestSearch in Coursera/Homeworks/hw3_bench" />
+        <item itemvalue="Go Test.BenchmarkFast in Coursera/Homeworks/hw3_bench" />
+        <item itemvalue="Go Test.BenchmarkSlow in Coursera/Homeworks/hw3_bench" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSearch_in_Coursera_Homeworks_hw3_bench - 2018.07.21 at 00h 36m 20s.xml">
+      <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSearch_in_Coursera_Homeworks_hw3_bench - 2018.07.21 at 08h 23m 49s.xml">
+      <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSearch_in_Coursera_Homeworks_hw3_bench - 2018.07.21 at 08h 49m 22s.xml">
+      <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSearch_in_Coursera_Homeworks_hw3_bench - 2018.07.21 at 09h 17m 06s.xml">
+      <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSearch_in_Coursera_Homeworks_hw3_bench - 2018.07.21 at 09h 33m 47s.xml">
+      <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSearch_in_Coursera_Homeworks_hw3_bench - 2018.07.21 at 09h 35m 01s.xml">
+      <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSearch_in_Coursera_Homeworks_hw3_bench - 2018.07.21 at 09h 36m 58s.xml">
+      <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSearch_in_Coursera_Homeworks_hw3_bench - 2018.07.21 at 09h 39m 15s.xml">
+      <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkFast_in_Coursera_Homeworks_hw3_bench - 2018.07.21 at 10h 13m 28s.xml">
+      <configuration name="BenchmarkFast in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSearch_in_Coursera_Homeworks_hw3_bench - 2018.07.22 at 10h 27m 44s.xml">
+      <configuration name="TestSearch in Coursera/Homeworks/hw3_bench" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="240" y="96" width="1440" height="826" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22246066" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5651578" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.46321526" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/fast.go</url>
+          <line>149</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/common.go</url>
+          <line>108</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/fast.go</url>
+          <line>205</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/fast.go</url>
+          <line>162</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fast_easyjson.go" />
+    <entry file="file://$PROJECT_DIR$/hw3.md">
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/users.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/bufio/scan.go" />
+    <entry file="file://$PROJECT_DIR$/fast.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="202" column="18" selection-start-line="202" selection-start-column="18" selection-end-line="202" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!block;n#easyjson3486653aDecodeCourseraHomeworksHw3Bench#0" />
+            <element signature="n#!!block;n#UnmarshalJSON#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="54" />
+          <folding>
+            <element signature="e#874#931#0" />
+            <element signature="e#1552#2087#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+            <element signature="n#!!block;n#init#0" />
+            <element signature="n#!!block;n#TestSearch#0" />
+            <element signature="n#!!block;n#BenchmarkSlow#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
